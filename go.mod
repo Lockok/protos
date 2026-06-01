@@ -1,4 +1,4 @@
-module protos-auth
+module github.com/Lockok/protosgo
 
 go 1.25.6
 
