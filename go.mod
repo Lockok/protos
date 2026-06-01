@@ -1,4 +1,4 @@
-module github.com/Lockok/protosgolang
+module github.com/Lockok/protos
 
 go 1.25.6
 
